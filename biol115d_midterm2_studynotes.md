@@ -164,7 +164,7 @@ On p. 431 of the merged PDF Peter defines the Exam Format to be:
 
    4. **Human Population Sustainability**
 
-      1. How ==large== is the human population? 
+      1. How ==large== is the ``human population``? 
       2. What is the history of the growth of the human population? 
 
       1. What are ``Herman Daly’s guidelines for sustainability`` 
