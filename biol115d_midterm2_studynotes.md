@@ -1,7 +1,4 @@
 # Biology 115D Study Outline
-
----
-<amp-iframe sandbox='allow-scripts allow-same-origin allow-forms allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation' layout=responsive resizable noloading title='Interactive or visual content' src='https://flo.uri.sh/story/2086540/embed?auto=1' width=400 height=300><amp-img layout=fixed height=64 width=64 src='https://public.flourish.studio/resources/bosh.svg' placeholder style='margin: auto'></amp-img><div overflow style='position: absolute; bottom: 0; width: 100%; text-align: center; background: #eee; font-family: sans-serif;'>Show more</div></amp-iframe><p><a href='https://public.flourish.studio/story/2086540/?utm_source=embed&utm_campaign=story/2086540'><amp-img layout=fixed height=16 width=105 src='https://public.flourish.studio/resources/made_with_flourish.svg' alt='Made with Flourish'></amp-img></a></p>
 ---
 
 ## Second Mid-Term Exam Biology 115 Study Questions & Answers
