@@ -72,6 +72,8 @@ On p. 431 of the merged PDF Peter defines the Exam Format to be:
         	end
         ```
 
+<div style="page-break-after: always"></div>
+
    5. What **evidence** is consistent with the ``endosymbiont hypothesis``?
 
    6. How has the diversity of life varied through *time*?
@@ -181,6 +183,7 @@ On p. 431 of the merged PDF Peter defines the Exam Format to be:
       	c <--> a
       	end
       ```
+<div style="page-break-after: always"></div>
 
       1. Draw and explain the diagram that shows the human economy as a subset of the Earth system. 
 
